@@ -1,0 +1,22 @@
+
+==> ESTUDO DE COMANDOS BASH NO LINUX <==
+
+BASH eh o projeto shell da GNU. BASH significa Bourne Again SHell.
+BASH eh um shell sh compativel que incorpora features Uteis a partir do Korn Shel (Ksh) e do shell C (csh).
+
+Bash - GNU Project - Free Software Foundation
+https://www.gnu.org/software/bash/
+
+
+*** COMANDOS UTEIS E OUTROS TOPICOS ***
+
+1. Movimentacao entre diretorios. Parametro Significado 
+
+cd . (ponto) = indica o diretorio atual 
+cd .. (dois pontos) = vai para diretorio anterior 
+cd ~ (til) = vai para diretorio HOME do usuario
+cd / (barra) = vai para diretorio Raiz 
+cd- (hifen) = vai para Ultimo diretorio acessado
+
+
+2. 
